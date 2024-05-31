@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/ft.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "ng|she",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "ng|she is a workshop designed to encourage more women to participate in programming, teaching the basics of web programming with Angular in a fun and personalized way.",
+    url: "https://www.facebook.com/share/p/zC9tvF85MnTN3nDg/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "HackMeeting",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "HackMeeting is a gathering focused on hacking, cybersecurity and technology. It offers talks, workshops and practical experiences, as well as thematic villages to explore specific areas of interest within the technology community.",
+    url: "https://l.facebook.com/l.php?u=https%3A%2F%2F0x7e7.hackmeeting.org.bo%2F&h=AT2vOHj4vQRwLL7-fsEjaNNyP3wHLOoCj7_f2MqMTIDr7iAD2tSZleNaAClGEg74rLF-ESOsQWAWwhZyYf4d4DesD_9ctjHVr7VJHfeCj9mqJALi1swTjJr0UGQSlHbiwO_F&s=1",
   },
   {
-    title: "My Resume Site",
+    title: "FLISoL",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The Latin American Free Software Installation Festival, the largest in Latin America, an event for all audiences",
+    url: "https://www.facebook.com/share/p/MM4pS94wFrD94YD2/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "women 360 workshop",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The event brought together the scholarship recipients of the Mujeres 360 2024 Program in Cochabamba. It was an occasion full of energy and determination, where the participants shared their goals and ideas to continue empowering themselves and generating a positive impact in their communities. The program is designed to support their growth and development in the technological field.",
+    url: "https://www.facebook.com/share/p/z4YEQT4KYAvThqy1/",
   },
 ];
 
